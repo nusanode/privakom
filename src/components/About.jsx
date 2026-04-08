@@ -10,7 +10,7 @@ const About = () => {
           {/* Gambar dengan Border Tebal dan Hard Shadow ala Brutalism */}
           <div className="relative border-[3px] border-dark shadow-[12px_12px_0px_0px_rgba(17,17,17,1)] bg-primary z-10 overflow-hidden">
             <img 
-              src="https://images.unsplash.com/photo-1513258496099-48168024aec0?auto=format&fit=crop&w=1200&q=80" 
+              src="foto-1.jpeg" 
               alt="Siswa belajar di Privakom" 
               loading="lazy"
               className="w-full h-auto object-cover grayscale group-hover:grayscale-0 transition-all duration-700 opacity-90 group-hover:opacity-100" 
