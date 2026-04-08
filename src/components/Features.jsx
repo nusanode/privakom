@@ -36,7 +36,7 @@ const Features = () => {
             {/* Efek grayscale brutalist */}
             <img 
               loading="lazy"
-              src="https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&w=400&q=80" 
+              src="foto-1.jpeg" 
               alt="Student learning" 
               className="absolute inset-0 w-full h-full object-cover grayscale opacity-80 group-hover:grayscale-0 group-hover:opacity-100 group-hover:scale-110 transition-all duration-500" 
             />
