@@ -246,7 +246,7 @@ export const coursesData = [
   }
 ];
 
-// DATA ALUMNI / TESTIMONI
+
 export const studentsData = [
   {
     id: 1,
@@ -291,7 +291,7 @@ export const studentsData = [
     testimonial: "Materi mudah dipahami dan pengajarnya sangat sabar membimbing sampai bisa."
   }
 ];
-// DATA KONTAK & LOKASI CABANG (Diambil dari gambar cabang)
+
 export const contactData = {
   email: "hello@privakom.com",
   locations: [
