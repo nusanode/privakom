@@ -34,12 +34,13 @@ const About = () => {
                 </svg>
               </div>
               <div>
-                <p className="text-2xl font-black font-serif text-dark uppercase tracking-tight">
-                  Certified
+                <p className="text-lg font-black text-dark tracking-tight leading-tight mb-1">
+                  LKP PRIVAKOM
                 </p>
-                <p className="text-xs font-bold text-dark uppercase tracking-widest">
-                  Institution
-                </p>
+
+                <div className="inline-block mt-1 bg-primary/20 text-dark px-2 py-1 rounded-md text-xs font-extrabold">
+                  NPSN: K9999519
+                </div>
               </div>
             </div>
           </div>
