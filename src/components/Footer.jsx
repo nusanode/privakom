@@ -36,7 +36,7 @@ const Footer = () => {
   href="https://www.tiktok.com/@privakom.course"
   target="_blank"
   rel="noopener noreferrer"
-  aria-label="TikTok PRIVAKOM"
+  aria-label="TikTok"
   className="w-14 h-14 bg-transparent border-[3px] border-white flex items-center justify-center hover:bg-primary hover:border-primary hover:text-dark transition-colors text-white"
 >
 <svg
